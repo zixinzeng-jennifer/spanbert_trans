@@ -1,0 +1,1 @@
+python code\run_glue.py --task_name qa --model spanbert-base-cased --do_train --do_eval --data_dir .\QA_proj\ --train_batch_size 32 --eval_batch_size 32 --num_train_epochs 10 --max_seq_length 128 --learning_rate 2e-5 --output_dir  .\QA_proj\ 
