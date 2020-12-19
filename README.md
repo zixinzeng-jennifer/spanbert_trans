@@ -1,3 +1,22 @@
+Replace code/run_glue.py with this version.  
+Copy new_train, new_dev,dev as data files. (new_train and new_dev were splitted from train.jsonl to suit model architecture).
+Setup the model by downloading bin and config from original link.
+Copy command.txt into cmd to start training the model.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================================================================================================================================
 # SpanBERT
 This repository contains code and models for the paper: [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529).
 
